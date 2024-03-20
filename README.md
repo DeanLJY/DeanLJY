@@ -5,7 +5,7 @@
 
 ## About Me
 
-I'm Dean Leung, a 36-year-old software engineer based in Hong Kong, with a degree from the University of York in the UK. I'm seeking opportunities in the UK to facilitate relocation for my family. This portfolio showcases three open-source projects that demonstrate my proficiency in Flutter, Natural Language Processing (NLP), and Recommendation Systems.
+I'm Dean Leung, a software engineer based in Hong Kong, with a Master's degree in Computer Science with Data Analytics from the University of York in the UK. This portfolio showcases three open-source projects that demonstrate my proficiency in Flutter, Natural Language Processing (NLP), and Recommendation Systems.
 
 ## 💻 Featured Projects
 
@@ -40,5 +40,5 @@ I have expertise in the following areas:
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or have any questions!
 
-- GitHub: [FalloutOne](https://github.com/DeanLJY)
-- Email: [deanleung@example.com](mailto:dean.leung.ottl@gmail.com)
+- GitHub: [DeanLJY](https://github.com/DeanLJY)
+- Email: [dean.leung.ottl@gmail.com](mailto:dean.leung.ottl@gmail.com)
