@@ -1,7 +1,7 @@
 # Dean Leung 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dean%20Leung-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dean-leung/)](https://www.linkedin.com/in/dean-leung/)
-[![GitHub followers](https://img.shields.io/github/followers/FalloutOne?label=Follow&style=social)](https://github.com/FalloutOne)
+[![GitHub followers](https://img.shields.io/github/followers/FalloutOne?label=Follow&style=social)](https://github.com/DeanLJY)
 
 ## About Me
 
@@ -40,5 +40,5 @@ I have expertise in the following areas:
 
 Feel free to explore my repositories and reach out if you'd like to collaborate on a project or have any questions!
 
-- GitHub: [FalloutOne](https://github.com/FalloutOne)
-- Email: [deanleung@example.com](mailto:deanleung@example.com)
+- GitHub: [FalloutOne](https://github.com/DeanLJY)
+- Email: [deanleung@example.com](mailto:dean.leung.ottl@gmail.com)
